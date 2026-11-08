@@ -1,0 +1,4 @@
+# Direct dependencies tested on Linux; optional dependencies included. Not a transitive lockfile.
+matplotlib==3.10.8
+numpy==2.3.5
+opencv-contrib-python-headless==4.14.0.94

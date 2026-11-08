@@ -1,0 +1,11 @@
+{
+  "data": "synthetic",
+  "seed": 7,
+  "estimated_inliers": 85,
+  "ground_truth_inliers": 85,
+  "iterations": 49,
+  "inlier_precision": 1.0,
+  "inlier_recall": 1.0,
+  "ground_truth_mean_forward_error_px": 0.7134692435562973,
+  "naive_DLT_mean_forward_error_px": 70.91472994297652
+}
